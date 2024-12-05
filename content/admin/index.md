@@ -1,8 +1,9 @@
 ---
-# Generate the /admin/ page
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
+# To publish author profile pages, remove all the `_build` and `cascade` settings below.
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 ---
