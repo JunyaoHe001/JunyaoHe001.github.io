@@ -54,7 +54,11 @@ tags:
 
 # Display this page in the Featured widget?
 featured: ture
-
+image:
+  caption: 'Image credit: [**Junyao He**]'
+  focal_point: ''
+  preview_only: false
+  
 # Custom links (uncomment lines below)
 links:
   - name: OSF Repository
