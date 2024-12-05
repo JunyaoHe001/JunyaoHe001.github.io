@@ -55,7 +55,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 image:
-  caption: 'Image credit: [**Junyao He**]'
+  caption: 'Image credit: Junyao He'
   focal_point: ''
   preview_only: false
   
