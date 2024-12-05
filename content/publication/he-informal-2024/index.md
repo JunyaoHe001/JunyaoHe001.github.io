@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**CEUS**](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/01989715.jpg)'
+  caption: ''
   focal_point: ""
   preview_only: ture
 # Associated Projects (optional).
