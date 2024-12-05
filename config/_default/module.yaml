@@ -7,6 +7,9 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
