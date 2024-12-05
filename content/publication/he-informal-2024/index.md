@@ -1,7 +1,7 @@
 ---
 title: "Informal participation in digital planning: How can third parties use social media to shift power relations in planning?"
 authors:
-- admin*
+- admin
 - Yanliu Lin
 - Pieter Hooimeijer
 - Jochen Monstadt
