@@ -47,6 +47,7 @@ abstract: Conflicts and power struggles in urban planning have increasingly shif
 summary: "Empowering grassroots in urban planning through social media"
 featured: true
 tags:
+- Grassroots
 - Social Media
 - Social Network Analysis
 - Power Relations
