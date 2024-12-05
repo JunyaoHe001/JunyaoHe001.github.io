@@ -29,9 +29,9 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0198971524001224
 image:
-  caption: ''
-  focal_point: ""
-  preview_only: true
+  caption: 'Image credit: Junyao He'
+  focal_point: ''
+  preview_only: false
 projects: []
 slides: example
 ---
