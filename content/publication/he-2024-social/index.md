@@ -44,6 +44,7 @@ abstract: Conflicts and power struggles in urban planning have increasingly shif
   as well. In addition, it appears that local authorities in China deal with controversies
   on social media with greater caution rather than simply resorting to online surveillance
   tactics to suppress discourse.
+summary: "Empowering grassroots in urban planning through social media."
 featured: true
 tags:
 - Social Media
