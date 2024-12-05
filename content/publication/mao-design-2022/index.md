@@ -1,5 +1,5 @@
 ---
-title: \"Design\" Towards Digital Transformation of Cities
+title: "Design" Towards Digital Transformation of Cities
 authors:
 - Mingrui Mao
 - Junyao He
