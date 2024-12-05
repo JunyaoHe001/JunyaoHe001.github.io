@@ -25,14 +25,18 @@ publication_types: ["article-journal"]
 publication: "*Computers, Environment and Urban Systems*, 114, 102193."
 publication_short: "CEUS"
 
-abstract: In recent years, social media has become an influential tool for engaging various participants and facilitating inclusivity in digital planning. While many studies highlight local governments' use of social media for formal participation, limited research assesses its impact on power dynamics in informal participation. This study aims to fill the gap by identifying key features of social media that facilitate informal participation and applying Castells' four forms of network power to understand power dynamics among civil society, journalism, citizens, and governments in planning processes. It also develops a novel mixed-methods approach that combines social media scraping, social network analysis (SNA), semi-structured interviews, and field observation. This approach is applied to investigate the Enning Road regeneration project in Guangzhou as a case study. Analyzing data from China's Weibo, the study reveals network disputes across three dimensions: graph, community, and network statistics. Hyperlink-Induced Topic Search (HITS) and community detection results suggest that civil society and journalism have substantial networked power as they strategically utilize social media to promote collaboration, mobilize citizens, and foster communities. They also excise network-making power by switching online and offline networks, thereby transmitting online debate to a wide range of audiences and compelling local governments to shift planning priorities from demolitions to preservation.
+abstract: "In recent years, social media has become an influential tool for engaging various participants and facilitating inclusivity in digital planning. While many studies highlight local governments' use of social media for formal participation, limited research assesses its impact on power dynamics in informal participation. This study aims to fill the gap by identifying key features of social media that facilitate informal participation and applying Castells' four forms of network power to understand power dynamics among civil society, journalism, citizens, and governments in planning processes. It also develops a novel mixed-methods approach that combines social media scraping, social network analysis (SNA), semi-structured interviews, and field observation. This approach is applied to investigate the Enning Road regeneration project in Guangzhou as a case study. Analyzing data from China's Weibo, the study reveals network disputes across three dimensions: graph, community, and network statistics. Hyperlink-Induced Topic Search (HITS) and community detection results suggest that civil society and journalism have substantial networked power as they strategically utilize social media to promote collaboration, mobilize citizens, and foster communities. They also excise network-making power by switching online and offline networks, thereby transmitting online debate to a wide range of audiences and compelling local governments to shift planning priorities from demolitions to preservation."
 
 # Summary. An optional shortened abstract.
-summary: consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Power relation study by Social Network Analysis"
 
 tags:
-- Source Themes
-featured: false
+- Social media
+- Informal participation
+- Third parties
+- Power relation
+- Social network analysis
+featured: ture
 
 # links:
 # - name: ""
@@ -49,9 +53,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'https://secure-ecsd.elsevier.com/covers/80/Tango2/large/01989715.jpg
+  caption: 'Image credit: [**CEUS**](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/01989715.jpg)'
   focal_point: ""
-  preview_only: false
+  preview_only: ture
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
