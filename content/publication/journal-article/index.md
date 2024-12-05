@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Informal participation in digital planning: How can third parties use social media to shift power relations in planning?"
 authors:
 - admin
-- Robert Ford
+- Yanliu Lin
+- Pieter Hooimeijer
+- Jochen Monstadt
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Corresponding Author"
+- ""
+- ""
+- ""
+date: "2024-09-16T00:00:00Z"
+doi: "https://doi.org/10.1016/j.compenvurbsys.2024.102193"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-09-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Computers, Environment and Urban Systems*, 114, 102193."
+publication_short: "CEUS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In recent years, social media has become an influential tool for engaging various participants and facilitating inclusivity in digital planning. While many studies highlight local governments' use of social media for formal participation, limited research assesses its impact on power dynamics in informal participation. This study aims to fill the gap by identifying key features of social media that facilitate informal participation and applying Castells' four forms of network power to understand power dynamics among civil society, journalism, citizens, and governments in planning processes. It also develops a novel mixed-methods approach that combines social media scraping, social network analysis (SNA), semi-structured interviews, and field observation. This approach is applied to investigate the Enning Road regeneration project in Guangzhou as a case study. Analyzing data from China's Weibo, the study reveals network disputes across three dimensions: graph, community, and network statistics. Hyperlink-Induced Topic Search (HITS) and community detection results suggest that civil society and journalism have substantial networked power as they strategically utilize social media to promote collaboration, mobilize citizens, and foster communities. They also excise network-making power by switching online and offline networks, thereby transmitting online debate to a wide range of audiences and compelling local governments to shift planning priorities from demolitions to preservation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +37,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0198971524001224"
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'https://secure-ecsd.elsevier.com/covers/80/Tango2/large/01989715.jpg
   focal_point: ""
   preview_only: false
 
