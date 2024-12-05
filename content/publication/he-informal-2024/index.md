@@ -33,7 +33,7 @@ tags:
 - Social network analysis
 featured: ture
 # links:
-# - name: ""
+name: URL
 url: https://www.sciencedirect.com/science/article/pii/S0198971524001224
 url_code: ''
 url_dataset: ''
