@@ -4,7 +4,7 @@ title: 'Design Empowerment for Urban Micro-renewal Driven by New Technology: Shu
 authors:
 - Yanan Han
 - Mingrui Mao
-- Junyao He
+- admin
 - Jingling Quan
 - Dayong Li
 date: '2021-01-01'
