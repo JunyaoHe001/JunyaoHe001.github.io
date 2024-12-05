@@ -53,7 +53,7 @@ tags:
   - Power Dynamics
 
 # Display this page in the Featured widget?
-featured: ture
+featured: true
 image:
   caption: 'Image credit: [**Junyao He**]'
   focal_point: ''
