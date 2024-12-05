@@ -3,8 +3,8 @@ title: How Can Social Networking Sites Empower The Grassroots In Urban Planning?
 authors:
 - Junyao He
 - Yanliu Lin
-date: '2024-01-01'
-publishDate: '2024-12-05T22:31:42.875363Z'
+date: '2024-08-27'
+publishDate: '2024-08-27T22:31:42.875363Z'
 publication_types:
 - paper-conference
 publication: '*AESOP 2024 Annual Congress*'
