@@ -179,3 +179,5 @@ awards:
 about:
   summary: |
     Junyao He is a Ph.D. candidate in Human Geography and Spatial Planning at Utrecht University. His research interests include digital planning, social network analysis, and power relations in urban planning. Skilled in spatial analysis, data visualization, and interpretable machine learning, Junyao bridges traditional planning approaches with emerging technologies to foster sustainable and inclusive urban environments.
+
+---
