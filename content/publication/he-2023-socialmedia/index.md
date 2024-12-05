@@ -76,7 +76,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**OSF**](https://osf.io/behqu)'
+  caption: 'Image credit: Junyao He'
   focal_point: ''
   preview_only: false
 
