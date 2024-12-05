@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: "Junyao He's academic website for sharing research and insights."
+    twitter: 'hejunyao8'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Junyao He"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Junyao He. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
