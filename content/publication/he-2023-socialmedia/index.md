@@ -1,7 +1,7 @@
 ---
 title: The Role of Social Media in Reshaping the Power of Third Parties in Urban Planning
 authors:
-- Junyao He
+- admin
 - Yanliu Lin
 - Pieter Hooimeijer
 - Jochen Monstadt
@@ -9,7 +9,7 @@ date: '2023-06-01'
 publishDate: '2024-12-05T22:31:42.865342Z'
 publication_types:
 - paper-conference
-publication: '*CUPUM 2023*'
+publication: '*The 18th International Conference on Computational Urban Planning and Urban Management (CUPUM 2023)*'
 abstract: With the rapid development of information and communication technologies
   (ICT) over the past two decades, social media has become a new and vital public
   sphere for networking and communication in urban planning. Third parties have expanded
