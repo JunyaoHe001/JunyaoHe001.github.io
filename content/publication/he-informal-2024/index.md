@@ -34,8 +34,7 @@ tags:
 featured: ture
 # links:
 # - name: ""
-#   url: ""
-url_pdf: "https://www.researchgate.net/profile/Junyao-He-4/publication/384113463_Informal_participation_in_digital_planning_How_can_third_parties_use_social_media_to_shift_power_relations_in_planning/links/66eb50596b101f6fa4f0acd7/Informal-participation-in-digital-planning-How-can-third-parties-use-social-media-to-shift-power-relations-in-planning.pdf?origin=publicationDetail&_sg%5B0%5D=58-WrZveMNTIowQ7xaeC5yghRjmz5-8JKTU1USEzbGxFLScGipnSmdaMYCK4JRkzoj5mShNUlA6jDDaAEUXqkQ.0BfZMSuwAk0X5vXMjMf-zw9v2UivU7fRpWDUqU1gcpOukloh5O4SDzBkYl4K9DBvIzIHR_1ZgJjehdWXzSs33w&_sg%5B1%5D=9fgBUMe70kEf9Y-xNK621qdo75hOt3GRppAs4pH13wvETCr7AAx-o-Vp0WTw4OcHpsJ-Ph1TAnEOHkAAWZL2pOBvGC-q2RnUacROAbE2tNI7.0BfZMSuwAk0X5vXMjMf-zw9v2UivU7fRpWDUqU1gcpOukloh5O4SDzBkYl4K9DBvIzIHR_1ZgJjehdWXzSs33w&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ"
+url: https://www.sciencedirect.com/science/article/pii/S0198971524001224
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,10 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
