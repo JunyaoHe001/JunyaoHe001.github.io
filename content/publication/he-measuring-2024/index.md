@@ -34,6 +34,7 @@ abstract: Social media has recently become a networked public sphere for social 
   This study bridges the gap between network power theory and network science, turning
   the metaphor of network power into an evidence-based analysis based on a quantitative
   approach.
+summary: "Unequal power relations in online planning controversy"
 featured: true
 tags:
 - Collaborative planning
