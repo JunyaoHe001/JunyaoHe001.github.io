@@ -3,7 +3,7 @@ title: 'Design Empowerment for Urban Micro-renewal Driven by New Technology: Shu
 authors:
 - Yanan Han
 - Mingrui Mao
-- Junyao He
+- admin
 - Jingling Quan
 - Dayong Li
 author_notes:
@@ -25,6 +25,6 @@ tags:
 - Design empowerment
 - Evidence-based design
 links:
-- name: CNKI(Chinese)
+- name: URL
   url: https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=XJZJ202104003&uniplatform=OVERSEA&v=lQOwuHqJs4QaWT60Lv_m9QiDHkR6pJ_X1XHN6wkvaMxgrrVyKETJZpgMetgGoUGr
 ---
