@@ -35,6 +35,10 @@ abstract: Social media has recently become a networked public sphere for social 
   the metaphor of network power into an evidence-based analysis based on a quantitative
   approach.
 summary: "Unequal power relations in online planning controversy"
+image:
+  caption: 'Image credit: Junyao He'
+  focal_point: ''
+  preview_only: false
 featured: true
 tags:
 - Collaborative planning
