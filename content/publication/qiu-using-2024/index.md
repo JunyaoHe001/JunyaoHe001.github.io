@@ -4,7 +4,7 @@ title: Using Social Media Data to Understand Citizen Perceptions of Urban Planni
 authors:
 - Yujia Qiu
 - Yanliu Lin
-- Junyao He
+- admin
 - Hongmei Lu
 author_notes:
 - ""
