@@ -2,7 +2,7 @@
 title: 'Measuring social network influence on power relations in collaborative planning:
   A case study of Beijing City, China'
 authors:
-- Junyao He
+- admin
 - Yanliu Lin
 - Pieter Hooimeijer
 - Jochen Monstadt
