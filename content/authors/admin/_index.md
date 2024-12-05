@@ -66,7 +66,6 @@ education:
     date_end: 2018-09-01
     summary: |
       GPA: 3.8/4.0
-
       Courses included:
       - Urban Design and Global Challenges
       - Planning for Sustainability
@@ -77,7 +76,6 @@ education:
     date_end: 2017-06-01
     summary: |
       GPA: 3.4/4.0
-
       Courses included:
       - Urban and Regional Development
       - Geospatial Technologies
@@ -85,36 +83,63 @@ education:
 
 work:
   - position: Doctoral Researcher
-    company_name: Utrecht University
+    company_name: Faculty of Geosciences, Utrecht University
     company_url: ''
     company_logo: ''
     date_start: 2021-07-01
     date_end: ''
+    location: Utrecht, Netherlands
     summary: |
       Responsibilities include:
       - Conducting research on power dynamics and stakeholder collaboration in planning processes.
       - Developing digital planning methods using social network analysis and spatial analysis tools.
       - Contributing to the ERC-funded project *Collaborative Planning in China*.
   - position: Teaching Assistant
-    company_name: Utrecht University
+    company_name: Faculty of Geosciences, Utrecht University
     company_url: ''
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2022-01-01
     date_end: ''
+    location: Utrecht, Netherlands
     summary: |
       Responsibilities include:
       - Mentoring students in urban research and planning courses.
       - Assisting in teaching spatial data analysis and visualization using R and Gephi.
-  - position: Research Manager
-    company_name: Beijing Community Research Center
+  - position: Urban Analyst and Consultant
+    company_name: UrbanXYZ Technology Ltd (Smart City Company)
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2021-01-01
+    location: Beijing, China
+    summary: |
+      Responsibilities include:
+      - Supporting smart city projects with advanced urban data analytics.
+      - Developing strategies for urban infrastructure and transportation planning.
+      - Collaborating with local governments on smart city initiatives.
+  - position: Research Manager (Part-time)
+    company_name: Beijing Community Research Center (NGO)
     company_url: ''
     company_logo: ''
     date_start: 2020-04-01
     date_end: 2021-05-01
+    location: Beijing, China
     summary: |
       Responsibilities include:
       - Leading public participation projects focused on urban regeneration.
       - Analyzing community-level data to support participatory planning initiatives.
+  - position: Urban Planner
+    company_name: China Academy of Urban Planning and Design (Urban Planning Institution)
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2019-01-01
+    location: Beijing, China
+    summary: |
+      Responsibilities include:
+      - Designing urban masterplans for sustainable development.
+      - Conducting field surveys and stakeholder interviews for urban regeneration projects.
+      - Contributing to regional planning studies and spatial development strategies.
 
 skills:
   - name: Technical Skills
@@ -153,28 +178,53 @@ languages:
     percent: 100
   - name: Mandarin
     percent: 100
+  - name: Dutch
+    percent: 10
   - name: Cantonese
     percent: 30
 
 awards:
   - title: Highly Commended Performance Dissertation Award
-    date: '2018-09-01'
-    awarder: The University of Manchester
+    date: '2018-11-01'
+    awarder: The University of Manchester SEED
     icon: award
     summary: |
-      Recognized for outstanding performance in urban planning dissertation focusing on urban analytics.
+      Awarded for outstanding performance in a thesis.
+
   - title: Outstanding Graduate Award
-    date: '2017-06-01'
+    date: '2017-05-01'
     awarder: Southwest University
     icon: award
     summary: |
-      Awarded for academic excellence and contributions to student leadership.
-  - title: National Student Innovation and Entrepreneurship Training Funding
-    date: '2016-09-01'
+      Recognized as one of the top 10% of students achieving outstanding grades during undergraduate studies.
+
+  - title: Outstanding Student Leaders Award
+    date: '2016-12-01'
+    awarder: Southwest University
+    icon: award
+    summary: |
+      Awarded for leadership in student organizations during undergraduate education.
+
+  - title: National Students’ Innovation and Entrepreneurship Training Funding
+    date: '2016-12-01'
     awarder: Ministry of Education, China
     icon: award
     summary: |
-      Secured national funding for a project on digital tools for urban planning.
+      Secured funding for academic training in innovative and entrepreneurial projects for undergraduate students.
+
+  - title: First Level Scholarship
+    date: '2016-10-01'
+    awarder: Southwest University
+    icon: award
+    summary: |
+      Awarded to the top 5–10% of students in an academic year.
+
+  - title: Second Level Scholarship
+    date: '2015-10-01'
+    awarder: Southwest University
+    icon: award
+    summary: |
+      Awarded to the top 10–20% of students in an academic year.
 
 about:
   summary: |
