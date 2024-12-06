@@ -67,7 +67,7 @@ sections:
       view: citation
       citation_style: APA
       spacing:
-        padding: ['10px', '-60px', '10px', '-60px']
+        padding: ['0px', '-60px', '0px', '-60px']
   - block: collection
     id: talks
     content:
