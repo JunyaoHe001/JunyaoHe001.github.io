@@ -20,7 +20,7 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: Skills
+      title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
@@ -32,10 +32,4 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: resume-hobbies
-    content:
-      title: hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
 ---
