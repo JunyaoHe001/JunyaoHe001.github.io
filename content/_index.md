@@ -41,7 +41,10 @@ sections:
 
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
-      columns: '3'
+      columns: '1'
+    design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: papers
     content:
