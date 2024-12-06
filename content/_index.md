@@ -66,7 +66,7 @@ sections:
     design:
       view: citation
       citation_style: APA
-      css_style: 'font-size: 40px;'
+      css_class: 'custom-block' # 调用自定义CSS
       spacing:
         padding: ['0px', '-60px', '0px', '-60px']
   - block: collection
