@@ -1,11 +1,10 @@
 ---
-title: Guest Lecturer, Social Media Data for Urban Planning
-event: lecture in Utrecht University
+title: Social Media Data for Urban Planning
+event: Lecture in Utrecht University
 event_url: https://www.uu.nl
 
 location: Utrecht University
 address:
-  city: Utrecht
   country: Netherlands
 
 summary: Guest lecture on using social media data for urban planning.
