@@ -2,7 +2,7 @@
 title: Measuring Social Network Influence on Power Relations in Collaborative Planning
   in Beijing City, China
 authors:
-- Junyao He
+- admin
 - Yanliu Lin
 date: '2022-01-01'
 publishDate: '2024-12-05T22:31:42.885065Z'
