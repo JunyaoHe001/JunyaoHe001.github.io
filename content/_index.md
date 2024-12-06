@@ -42,7 +42,6 @@ sections:
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       columns: '1'
-    design:
       spacing:
         padding: ['10px', '-60px', '10px', '-60px']
   - block: collection
@@ -67,6 +66,8 @@ sections:
     design:
       view: citation
       citation_style: APA
+      spacing:
+        padding: ['10px', '-60px', '10px', '-60px']
   - block: collection
     id: talks
     content:
