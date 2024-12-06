@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "0rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -44,8 +44,9 @@ sections:
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       columns: '1'
+      # Reduce spacing
       spacing:
-        padding: ['10px', '-120px', '10px', '-120px']
+        padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
@@ -58,6 +59,9 @@ sections:
     design:
       view: article-grid
       columns: 4
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
@@ -72,7 +76,10 @@ sections:
       view: citation
       citation_style: APA
       css_class: 'custom-block' # 调用自定义CSS
-
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+    
   - block: collection
     id: talks
     content:
