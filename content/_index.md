@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -39,10 +39,8 @@ sections:
       text: |-
         - **Urban Planning**  
           I am a doctoral researcher at Utrecht University, specializing in urban planning and social network analysis. My research focuses on understanding power dynamics and stakeholder collaboration in urban planning processes, with a strong emphasis on leveraging digital tools.
-        ---
         - **Analytical Methods**  
           I apply both qualitative and quantitative methods, such as social network analysis and geospatial modeling, to explore how emerging technologies influence urban planning and public participation.
-        ---
         - **Collaborations**  
           Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
