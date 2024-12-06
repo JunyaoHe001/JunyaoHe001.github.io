@@ -44,7 +44,7 @@ sections:
       columns: '1'
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '-20px', '20px', '-20px']
   - block: collection
     id: papers
     content:
