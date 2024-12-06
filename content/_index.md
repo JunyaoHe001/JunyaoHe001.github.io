@@ -43,7 +43,6 @@ sections:
     design:
       columns: '1'
       spacing: "3rem"
-      css_style: "max-width: 800px; margin: 0 auto; text-align: justify;"
   - block: collection
     id: papers
     content:
@@ -54,7 +53,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 4
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
