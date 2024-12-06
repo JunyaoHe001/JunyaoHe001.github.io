@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '-60px', '10px', '-60px']
+        padding: ['10px', '-120px', '10px', '-120px']
   - block: collection
     id: papers
     content:
