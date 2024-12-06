@@ -122,7 +122,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-04-01
-    date_end: 2021-05-01
+    date_end: 2023-05-01
     location: Beijing, China
     summary: |
       Responsibilities include:
