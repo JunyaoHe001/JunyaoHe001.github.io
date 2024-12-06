@@ -1,7 +1,19 @@
 /* assets/css/custom.css */
 .custom-block {
-    font-size: 20px; /* 设置字体大小 */
-    background-color: ; /* 设置背景颜色 */
-    padding: 18px; /* 设置内边距 */
-    border-radius: 6px; /* 设置圆角 */
+    background-color: transparent; /* 背景透明 */
+    max-width: 80%; /* 设置块的最大宽度 */
+    width: auto; /* 自适应宽度 */
+    margin: 0 auto; /* 居中对齐 */
+    padding: 20px; /* 内边距 */
+    border: 1px solid #ddd; /* 可选：视觉分隔的边框 */
+    border-radius: 8px; /* 圆角 */
+    font-size: 18px; /* 可选：字体大小 */
+}
+
+/* 响应式支持 */
+@media (max-width: 768px) {
+    .custom-block {
+        max-width: 100%; /* 小屏幕时块占满宽度 */
+        padding: 10px; /* 减小内边距 */
+    }
 }
