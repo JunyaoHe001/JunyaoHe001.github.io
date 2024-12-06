@@ -31,10 +31,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'j.he1@uu.nl'
+    url: 'mailto:j.he1@uu.nl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://twitter.com/hejunyao8
   - icon: brands/instagram
     url: https://www.instagram.com/junyaohe_jeo/
   - icon: brands/github
@@ -145,6 +145,24 @@ skills:
   - name: Technical Skills
     items:
       - name: Social Network Analysis
+        description: Expertise in analyzing social networks using Gephi, Pajek, and R.
+        percent: 90
+        icon: hexagon-nodes
+      - name:  Geo-spatio-temporal Analysis
+        description: Skilled in geospatial analysis and visualization with QGIS, ArcGIS and Python.
+        percent: 80
+        icon: globe
+      - name: Interpretable Machine Learning
+        description: Experience with SHAP and XGBoost to analyze urban data patterns.
+        percent: 75
+        icon: machine-learning
+      - name: Data Visualization
+        description: Proficient in creating insightful visualizations with Python, R and Tableau.
+        percent: 85
+        icon: chart-bar
+  - name: Technical Skills
+    items:
+      - name: Social Network Analysis
         description: Expertise in analyzing urban and stakeholder networks using Gephi, Pajek, and R.
         percent: 90
         icon: hexagon-nodes
@@ -172,7 +190,10 @@ skills:
         description: Exploring natural and urban environments.
         percent: 70
         icon: person-hiking
-        # icon: person-simple-walk
+      - name: Skiing
+        description: Exploring natural and urban environments.
+        percent: 70
+        icon: person-skiing
 
 languages:
   - name: English
