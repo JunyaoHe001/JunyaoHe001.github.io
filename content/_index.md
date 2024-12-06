@@ -11,7 +11,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display (a folder name within content/authors/)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -23,10 +23,10 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
+          # Add your image background to assets/media/.
           filename: background2024.jpg
           filters:
-            brightness: 0.0
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
@@ -42,7 +42,6 @@ sections:
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       columns: '1'
-      spacing: "3rem"
   - block: collection
     id: papers
     content:
