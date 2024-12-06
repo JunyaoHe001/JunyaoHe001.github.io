@@ -63,6 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      citation_style: APA
   - block: collection
     id: talks
     content:
