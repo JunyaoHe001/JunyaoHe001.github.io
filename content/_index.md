@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: black
         image:
@@ -44,7 +44,7 @@ sections:
       columns: '1'
     design:
       spacing:
-        padding: ['20px', '-20px', '20px', '-20px']
+        padding: ['10px', '-60px', '10px', '-60px']
   - block: collection
     id: papers
     content:
