@@ -209,7 +209,7 @@ awards:
   - title: Highly Commended Performance Dissertation Award
     date: '2018-11-01'
     awarder: The University of Manchester SEED
-    icon: award-solid
+    icon: 
     summary: |
       Awarded for outstanding performance in a thesis.
 
