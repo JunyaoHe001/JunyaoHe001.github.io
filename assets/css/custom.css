@@ -37,3 +37,18 @@
   margin: 0 auto;   /* 保证内容居中 */
 }
 
+/* 针对所有使用 .prose 类的内容块调整宽度 */
+.prose {
+  max-width: 1000px; /* 设置为适合的宽度，例如900px */
+  margin: 0 auto;   /* 保证内容居中 */
+  padding: 1rem;    /* 可选：设置内边距，增加视觉间距 */
+}
+
+/* 如果需要调整标题与内容间距 */
+.prose h1, .prose h2, .prose h3 {
+  margin-bottom: 1.5rem; /* 标题与后续内容的间距 */
+}
+
+.prose p {
+  margin-bottom: 1rem; /* 段落之间的间距 */
+}
