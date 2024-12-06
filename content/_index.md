@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a doctoral researcher at Utrecht University, specializing in urban planning and social network analysis. My research focuses on understanding power dynamics and stakeholder collaboration in urban planning processes, with a strong emphasis on leveraging digital tools.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I apply both qualitative and quantitative methods, such as social network analysis and geospatial modeling, to explore how emerging technologies influence urban planning and public participation.
+
+        Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       columns: '1'
   - block: collection
@@ -102,6 +102,25 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: "💼 Skills"
+      text: |-
+        - **Programming**: Python, R, MATLAB
+        - **Data Analysis**: Social Network Analysis, Geospatial Analysis, Machine Learning
+        - **Languages**: English (Fluent), Mandarin (Native), French (Intermediate)
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: "🎨 Hobbies"
+      text: |-
+        - Hiking and exploring nature
+        - Photography
+        - Reading science fiction
+        - Cooking and trying out international cuisines
+    design:
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
