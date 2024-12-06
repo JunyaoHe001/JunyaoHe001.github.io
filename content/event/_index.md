@@ -5,6 +5,7 @@ cms_exclude: true
 
 # View
 view: card
+columns: 4
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
