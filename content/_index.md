@@ -44,9 +44,6 @@ sections:
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       columns: '1'
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
@@ -59,9 +56,7 @@ sections:
     design:
       view: article-grid
       columns: 4
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+
 
   - block: collection
     id: papers
