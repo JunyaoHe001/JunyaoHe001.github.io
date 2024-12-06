@@ -216,35 +216,35 @@ awards:
   - title: Outstanding Graduate Award
     date: '2017-05-01'
     awarder: Southwest University
-    icon: award
+    icon: 
     summary: |
       Recognized as one of the top 10% of students achieving outstanding grades during undergraduate studies.
 
   - title: Outstanding Student Leaders Award
     date: '2016-12-01'
     awarder: Southwest University
-    icon: award
+    icon: 
     summary: |
       Awarded for leadership in student organizations during undergraduate education.
 
   - title: National Students’ Innovation and Entrepreneurship Training Funding
     date: '2016-12-01'
     awarder: Ministry of Education, China
-    icon: award
+    icon: 
     summary: |
       Secured funding for academic training in innovative and entrepreneurial projects for undergraduate students.
 
   - title: First Level Scholarship
     date: '2016-10-01'
     awarder: Southwest University
-    icon: award
+    icon: 
     summary: |
       Awarded to the top 5–10% of students in an academic year.
 
   - title: Second Level Scholarship
     date: '2015-10-01'
     awarder: Southwest University
-    icon: award
+    icon: 
     summary: |
       Awarded to the top 10–20% of students in an academic year.
 
