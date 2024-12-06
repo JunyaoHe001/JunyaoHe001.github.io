@@ -44,7 +44,7 @@ sections:
         - **Collaborations**  
           Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
-      columns: '3'
+      css_class: max-w-prose mx-auto
 
   - block: collection
     id: papers
