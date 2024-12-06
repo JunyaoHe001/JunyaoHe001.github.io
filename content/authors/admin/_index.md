@@ -148,7 +148,7 @@ skills:
         description: Expertise in analyzing social networks using Gephi, Pajek, and R.
         percent: 90
         icon: hexagon-nodes
-      - name:  Geo-spatio-temporal Analysis
+      - name:  Geo-spatial Analysis
         description: Skilled in geospatial analysis and visualization with QGIS, ArcGIS and Python.
         percent: 80
         icon: globe
@@ -160,24 +160,7 @@ skills:
         description: Proficient in creating insightful visualizations with Python, R and Tableau.
         percent: 85
         icon: chart-bar
-  - name: Technical Skills
-    items:
-      - name: Social Network Analysis
-        description: Expertise in analyzing urban and stakeholder networks using Gephi, Pajek, and R.
-        percent: 90
-        icon: hexagon-nodes
-      - name: Spatial Analysis
-        description: Skilled in geospatial analysis and visualization with QGIS and Python.
-        percent: 80
-        icon: globe
-      - name: Interpretable Machine Learning
-        description: Experience with SHAP and XGBoost to analyze urban data patterns.
-        percent: 75
-        icon: machine-learning
-      - name: Data Visualization
-        description: Proficient in creating insightful visualizations with R and Tableau.
-        percent: 85
-        icon: chart-bar
+
   - name: Hobbies
     color: '#1e90ff'
     color_border: '#4682b4'
