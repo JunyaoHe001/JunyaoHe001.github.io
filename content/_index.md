@@ -41,7 +41,7 @@ sections:
 
         Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
-      columns: '1'
+      columns: '3'
   - block: collection
     id: papers
     content:
