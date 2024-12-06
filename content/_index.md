@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -44,6 +45,7 @@ sections:
       columns: '1'
       spacing:
         padding: ['10px', '-120px', '10px', '-120px']
+
   - block: collection
     id: papers
     content:
@@ -55,7 +57,9 @@ sections:
     design:
       view: article-grid
       columns: 4
+
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
@@ -67,8 +71,7 @@ sections:
       view: citation
       citation_style: APA
       css_class: 'custom-block' # 调用自定义CSS
-      spacing:
-        padding: ['0px', '-60px', '0px', '-60px']
+
   - block: collection
     id: talks
     content:
