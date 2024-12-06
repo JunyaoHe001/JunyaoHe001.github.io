@@ -66,7 +66,7 @@ sections:
     design:
       view: citation
       citation_style: APA
-      css_style: 'font-size: 18px;'
+      css_style: 'font-size: 40px;'
       spacing:
         padding: ['0px', '-60px', '0px', '-60px']
   - block: collection
