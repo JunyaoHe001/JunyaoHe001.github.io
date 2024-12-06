@@ -147,7 +147,7 @@ skills:
       - name: Social Network Analysis
         description: Expertise in analyzing urban and stakeholder networks using Gephi, Pajek, and R.
         percent: 90
-        icon: chart-network
+        icon: hexagon-nodes
       - name: Spatial Analysis
         description: Skilled in geospatial analysis and visualization with QGIS and Python.
         percent: 80
@@ -171,7 +171,8 @@ skills:
       - name: Hiking
         description: Exploring natural and urban environments.
         percent: 70
-        icon: person-simple-walk
+        icon: person-hiking
+        # icon: person-simple-walk
 
 languages:
   - name: English
