@@ -11,12 +11,12 @@ address:
 summary: Guest lecture on advanced research methodologies for spatial planning.
 abstract: 'An in-depth introduction to social network analysis methods and their applications in spatial planning research.'
 
-date: '2022-11-01T14:00:00Z'
+date: '2024-01-01T14:00:00Z'
 authors:
   - admin
 
 tags: [social network analysis, spatial planning]
-featured: false
+featured: true
 
 # Optional media
 url_slides: 'https://example.com/social-network-analysis-methods-slides.pdf'
