@@ -15,7 +15,7 @@ date: '2020-06-01T11:00:00Z'
 authors:
   - admin
 
-tags: [smart city, data narrative, public empowerment]
+tags: [public empowerment, smart city, data narrative]
 featured: false
 
 # Optional media
