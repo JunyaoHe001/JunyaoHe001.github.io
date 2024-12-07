@@ -83,9 +83,11 @@ sections:
       filters:
         folders:
           - event
+        count: 8
     design:
       view: article-grid
       columns: 4
+    
   - block: collection
     id: news
     content:
