@@ -4,9 +4,6 @@ event: "Bi-City Biennale of Urbanism and Architecture"
 event_url: ""
 
 location: "Shenzhen, China"
-address:
-  city: "Shenzhen"
-  country: "China"
 
 summary: "Presentation on community symbiosis and data creation for migrant and aging communities in Beijing and Shenzhen."
 abstract: "This talk explored the concept of community symbiosis, focusing on the creation and utilization of data in addressing challenges faced by migrant and aging communities in urban areas like Beijing and Shenzhen."
