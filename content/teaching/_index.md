@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Supervision
+summary: Here are the students I supervised and co-supervised.
 type: landing
 
 cascade:
