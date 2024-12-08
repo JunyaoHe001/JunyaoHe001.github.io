@@ -3,10 +3,10 @@ title: Big Data Monitoring of Livelihood Indicators in Beijing
 date: 2019-01-01
 external_link: ""
 tags:
+  - Spatial Computing
   - Big Data
   - Livelihood Indicators
   - Social Perception
-  - Spatial Computing
   - Urban Governance
 ---
 
