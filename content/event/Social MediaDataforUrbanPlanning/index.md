@@ -4,8 +4,6 @@ event: Guest lecture in Advanced Research Methodology for Spatial Planning cours
 event_url: https://www.uu.nl
 
 location: Utrecht University
-address:
-  country: Netherlands
 
 summary: Guest lecture on using social media data for urban planning.
 abstract: 'The lecture covered how social media data can be utilized to analyze urban dynamics and empower planning decisions.'
