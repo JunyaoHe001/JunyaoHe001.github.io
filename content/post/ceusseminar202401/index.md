@@ -1,5 +1,5 @@
 ---
-title: "Seminar of Digital Planning for Urban Future"
+title: "🌟 Seminar of Digital Planning for Urban Future"
 date: 2024-01-24
 type: post
 authors:
