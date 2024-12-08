@@ -4,9 +4,6 @@ event: Transforming China - Local and Global Perspectives
 event_url: https://www.uu.nl
 
 location: Utrecht University
-address:
-  city: Utrecht
-  country: Netherlands
 
 summary: Guest lecture in course Transforming China - Local and Global Perspectives (GEO3-3042).
 abstract: 'This lecture explored the implications of smart city governance and its role in addressing urban challenges.'
