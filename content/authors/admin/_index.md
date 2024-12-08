@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/junyaohe_jeo/
   - icon: red
-    url: https://orcid.org/0000-0003-1674-2933](https://www.xiaohongshu.com/user/profile/5a10d01c4eacab52b282f419
+    url: https://www.xiaohongshu.com/user/profile/5a10d01c4eacab52b282f419
   - icon: brands/github
     url: https://github.com/JunyaoHe001
   - icon: brands/linkedin
