@@ -1,6 +1,6 @@
 ---
-title: Social Media Data for Urban Planning
-event: Lecture in Utrecht University
+title: Social Network Analysis Methods
+event: Guest lecture in Advanced Research Methodology for Spatial Planning course
 event_url: https://www.uu.nl
 
 location: Utrecht University
@@ -10,11 +10,11 @@ address:
 summary: Guest lecture on using social media data for urban planning.
 abstract: 'The lecture covered how social media data can be utilized to analyze urban dynamics and empower planning decisions.'
 
-date: '2024-01-01T10:00:00Z'
+date: '2024-01-15T10:00:00Z'
 authors:
   - admin
 
-tags: [social media, urban planning]
+tags: [social network analysis, social media, urban planning]
 featured: false
 
 # Optional media
