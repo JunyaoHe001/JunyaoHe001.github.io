@@ -1,5 +1,5 @@
 ---
-title: "New Year, New Publication: Power Relations in Urban Regeneration"
+title: "📢 New Year, New Publication: Power Relations in Urban Regeneration"
 date: 2024-01-10
 type: post
 authors:
