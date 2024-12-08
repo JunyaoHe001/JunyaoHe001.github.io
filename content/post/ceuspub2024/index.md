@@ -1,5 +1,5 @@
 ---
-title: "📢 Informal Participation in Digital Planning: Shifting Power Relations"
+title: "📢 New Publication: Informal Participation in Digital Planning: Shifting Power Relations"
 date: 2024-12-01
 type: post
 authors:
