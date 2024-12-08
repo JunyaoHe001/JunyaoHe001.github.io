@@ -11,10 +11,10 @@ main:
     url: publication/
     weight: 11
   - name: Talks
-    url: talks/
+    url: event/
     weight: 50
   - name: News
-    url: news/
+    url: post/
     weight: 15
   - name: Experience
     url: experience/
