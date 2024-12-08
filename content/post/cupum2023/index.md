@@ -14,7 +14,7 @@ tags:
 summary: "Presented my research on the role of social media in studying power relations at CUPUM 2023."
 featured: false
 
-🎉 **CUPUM 2023**  
+**🎉 CUPUM 2023**  
 Glad to present my research at **CUPUM 2023**. Social media matters in power relation study! It explores how social media platforms reshape communication, participation, and power dynamics in urban planning processes.
 
 # Optional media links
