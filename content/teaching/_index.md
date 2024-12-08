@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Supervision
       filters:
         folders:
           - teaching
