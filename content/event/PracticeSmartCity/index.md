@@ -3,7 +3,7 @@ title: Narrative of Multiple Data and Public Empowerment in Planning
 event: Practice of Smart City Governance Course
 event_url: https://www.cufe.edu.cn
 
-location: Central University of Finance and Economics
+location: "Central University of Finance and Economics"
 address:
   city: Beijing
   country: China
