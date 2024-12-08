@@ -1,15 +1,24 @@
 ---
-title: ERC Starting Grant project CoChina
-date: 2021-07-01
-external_link: https://collaborativeplanning.sites.uu.nl
+title: Big Data Monitoring of Livelihood Indicators in Beijing
+date: 2020-01-01
+external_link: ""
 tags:
-  - Social Media
-  - Power Relation
-  - Digital Planning
-  - Collaborative Planning
+  - Big Data
+  - Livelihood Indicators
+  - Social Perception
+  - Spatial Computing
+  - Urban Governance
 ---
-As a PhD Candidate, Junyao He has been involved in collaborative planning research in China in collaboration Dr. Yanliu Lin, Dr. Hongmei Lu and Xiaomeng Zhou since July 2021. He focuses on power relations and social network analysis. This research is part of the ERC funded project CoChina. 
-This project is led by Dr. Yanliu Lin, Associate Professor of Spatial Planning and Digitalization in the Department of Human Geography and Spatial Planning for the topic of “Collaborative planning in China: Authoritarian institutions, new media, power relations, and public spheres”. It is funded for five years (2021-2026) through a Starting Grant awarded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 947879).
-Collaborative planning has become an effective means to address conflicts of interest in urban renewal and environmental management in China. However, the egalitarian principles that ground collaborative planning theory call into question its validity in China. The theory emphasizes consensus building in which various stakeholders come together for dialogue to address controversial issues. It rests on three assumptions: democratic institutions, neutral power and communicative rationality. These assumptions, which are often debated in the Western context, should clearly be questioned in the Chinese context, due to authoritarian deliberation and the challenging nature of power relations. Therefore, the overall aim of this project is to examine collaborative planning practices in China and identify the challenges to the assumptions of collaborative planning theory about institutions, power relations, and public spheres.  It leads to a new understanding of collaborative planning in China, and a reconceptualization of the collaborative planning theory.
 
-<!--more-->
+**Project Duration:** 2020-2021  
+
+This project involved the comprehensive monitoring of over 60 indicators across 12 dimensions at the sub-district and township levels within Beijing. It aimed to provide a data-driven evaluation framework that examines urban patterns, functional sectors, and grassroots governance units, facilitating a holistic understanding of government initiatives, market behaviors, and societal participation in safeguarding public welfare.  
+
+The research leveraged **multi-source big data** to evaluate the balance of "five essential characteristics" in Beijing's development. This included assessing the spatial equity of public service resource allocation and identifying disparities at both municipal and neighborhood levels. By combining **social perception analysis** with **spatial computing techniques**, the project generated actionable insights to enhance the quality of livelihood services and inform policy recommendations.  
+
+### Key Contributions:
+- **Multi-dimensional Evaluation:** A systematic approach to understanding the interplay between policy measures, target groups, service standards, and implementation mechanisms.  
+- **Social and Emotional Insights:** Leveraged social data to capture public sentiment and evaluate the impact of urban governance strategies on perceived happiness and satisfaction.  
+- **Spatial Analysis:** Employed geospatial methodologies to uncover spatial patterns of public resource allocation, enabling precise interventions for equitable development.  
+
+The findings highlighted the importance of aligning public service policies with community needs, refining policy logic, and improving the scientific basis of policy frameworks. This research provides practical standards and policy suggestions for enhancing public welfare services in urban environments.
