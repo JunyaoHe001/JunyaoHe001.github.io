@@ -1,5 +1,5 @@
 ---
-title: "Call for Papers: Special Issue on Collaborative Planning in the Digital Era"
+title: "🎉 Call for Papers: Special Issue on Collaborative Planning in the Digital Era"
 date: "2024-10-20"
 type: "post"
 
