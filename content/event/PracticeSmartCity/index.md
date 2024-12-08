@@ -8,7 +8,7 @@ location: "Central University of Finance and Economics"
 summary: Guest lecture on the narrative of multiple data and public empowerment in planning.
 abstract: 'This lecture highlighted how diverse data narratives can be used to empower the public and influence smart city governance.'
 
-date: '2020-06-01T11:00:00Z'
+date: '2020-07-02T11:00:00Z'
 authors:
   - admin
 
