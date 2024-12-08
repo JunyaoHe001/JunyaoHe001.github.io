@@ -61,16 +61,16 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Recent Publications & Conferences
       text: ""
       filters:
         folders:
           - publication
+        count: 10
         exclude_featured: false
     design:
       view: citation
       citation_style: APA
-      css_class: 'custom-block' # 调用自定义CSS
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
