@@ -4,8 +4,6 @@ event: Practice of Smart City Governance Course
 event_url: https://www.cufe.edu.cn
 
 location: "Central University of Finance and Economics"
-address:
-  city: Beijing
 
 summary: Guest lecture on the narrative of multiple data and public empowerment in planning.
 abstract: 'This lecture highlighted how diverse data narratives can be used to empower the public and influence smart city governance.'
