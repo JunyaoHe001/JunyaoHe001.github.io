@@ -32,6 +32,18 @@ sections:
           position: center
           parallax: false
 
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 4
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -45,19 +57,6 @@ sections:
           Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
     design:
       css_class: my-research-container
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 4
-
 
   - block: collection
     id: papers
