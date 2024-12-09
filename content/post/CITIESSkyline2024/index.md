@@ -1,6 +1,6 @@
 ---
 title: "📢 New Publication: Exploring Citizens’ Perceptions Through Cities: Skylines"
-date: 2024-12-05
+date: 2024-08-01
 type: post
 authors:
   - admin
