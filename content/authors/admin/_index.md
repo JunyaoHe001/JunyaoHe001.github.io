@@ -168,15 +168,15 @@ skills:
     color_border: '#4682b4'
     items:
       - name: Photography
-        description: Capturing urban transformations and landscapes.
+        description: Capturing the essence of urban transformations and natural landscapes through the lens. I am also an Astro-photographer.
         percent: 80
         icon: camera
       - name: Hiking
-        description: Exploring natural and urban environments.
+        description: Immersing myself in nature, especially in mountainous and remote wilderness areas.
         percent: 70
         icon: person-hiking
       - name: Skiing
-        description: Exploring natural and urban environments.
+        description: Enjoying the thrill of exploring natural terrains on skis.
         percent: 70
         icon: person-skiing
 
