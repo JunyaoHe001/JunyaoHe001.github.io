@@ -50,11 +50,11 @@ sections:
       subtitle: ''
       text: |-
         - **Urban Planning**  
-          I am a doctoral researcher at Utrecht University, specializing in urban planning and social network analysis. My research focuses on understanding power dynamics and stakeholder collaboration in urban planning processes, with a strong emphasis on leveraging digital tools.
+          I am a doctoral researcher at Utrecht University, specializing in spatial analysis and social network analysis. My research focuses on understanding power dynamics and stakeholder collaboration in cities, with a strong emphasis on leveraging digital tools, data and platforms.
         - **Analytical Methods**  
-          I apply both qualitative and quantitative methods, such as social network analysis and geospatial modeling, to explore how emerging technologies influence urban planning and public participation.
+          I apply both qualitative and quantitative methods, such as geospatial modelling, social network analysis and semi-structure interviews, to explore how emerging technologies influence space, people and interactions.
         - **Collaborations**  
-          Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
+          Please feel free to reach out for potential collaborations or discussions on urban studeis, data analysis, or social issues! 😊
     design:
       css_class: my-research-container
 
