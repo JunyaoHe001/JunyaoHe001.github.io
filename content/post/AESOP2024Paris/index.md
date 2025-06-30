@@ -1,5 +1,5 @@
 ---
-title: "🌟 Presenting at AESOP 2024!"
+title: "🌟 Presenting at AESOP 2024 Paris!"
 date: "2024-07-08"
 type: "post"
 
