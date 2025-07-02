@@ -2,7 +2,7 @@
 title: 'Simulating Power Dynamics in Social Media Participation in Digital Planning:
   An Agent-Based Model Approach'
 authors:
-- Junyao He
+- admin
 - Yanliu Lin
 date: '2025-06-01'
 publishDate: '2025-06-30T14:40:03.199087Z'
