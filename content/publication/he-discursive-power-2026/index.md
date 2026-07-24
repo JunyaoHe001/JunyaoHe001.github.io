@@ -1,7 +1,7 @@
 ---
 title: "Gaining Discursive Power through Framing: Citizens' Strategic Use of Social Media in Collaborative Planning"
 authors:
-  - admin
+  - 'He, J.'
 date: 2026-05-01
 publication_types:
   - chapter
