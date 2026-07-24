@@ -12,7 +12,7 @@ sections:
       username: admin
     design:
       date_format: '2006'
-      is_education_first: true
+      is_education_first: false
   - block: resume-skills
     content:
       title: Research Methods
