@@ -1,9 +1,9 @@
 ---
 title: 'Measuring AI-Related Cooperation, Competition, and Innovation across Global Subnational Regions Using News Text'
 authors:
-  - admin
-  - Tao Wang
-  - Zhen Li
+  - 'He, J.'
+  - 'Wang, T.'
+  - 'Li, Z.'
 date: 2026-01-06
 summary: A GeoAI framework for measuring AI-related cooperation, competition, and innovation across subnational regions.
 tags:
