@@ -1,30 +1,21 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: "4rem"
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within content/authors/)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
     design:
-      # css_class: dark
       css_style: "color: #ffffff; background-color: transparent;"
       background:
         color: black
         image:
-          # Add your image background to assets/media/.
           filename: background2024.jpg
           filters:
             brightness: 0.0
@@ -46,15 +37,17 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        - **Urban Planning**  
-          I am a doctoral researcher at Utrecht University, specializing in urban planning and social network analysis. My research focuses on understanding power dynamics and stakeholder collaboration in urban planning processes, with a strong emphasis on leveraging digital tools.
-        - **Analytical Methods**  
-          I apply both qualitative and quantitative methods, such as social network analysis and geospatial modeling, to explore how emerging technologies influence urban planning and public participation.
-        - **Collaborations**  
-          Please feel free to reach out for collaborations or discussions on planning, data analysis, or urban innovation! 😊
+        My research is organised around **complex networks and complex systems** as a shared analytical foundation. I study relational and spatial processes across four connected empirical fields:
+
+        - **Urban planning and urban studies**, including digital participation, planning governance, and power relations.
+        - **Urban and economic geography**, with particular attention to labour markets, regional restructuring, and spatial inequality.
+        - **Mobility and migration**, including job–home networks, residential relocation, interregional migration, and digitally enabled mobility.
+        - **Computational social science**, combining network analysis, spatial methods, simulation, text analysis, and interpretable machine learning.
+
+        Current work examines how remote and hybrid work, digitalisation, and emerging technologies reshape urban systems, mobility patterns, and uneven regional development.
     design:
       css_class: my-research-container
 
@@ -71,14 +64,13 @@ sections:
     design:
       view: citation
       citation_style: APA
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-    
+
   - block: collection
     id: talks
     content:
-      title: Lecture & Talks
+      title: Lectures & Talks
       filters:
         folders:
           - event
@@ -86,18 +78,15 @@ sections:
     design:
       view: article-grid
       columns: 4
-    
+
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         author: ""
         category: ""
@@ -106,14 +95,10 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
 ---
