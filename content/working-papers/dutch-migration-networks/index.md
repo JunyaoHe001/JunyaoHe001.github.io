@@ -1,8 +1,8 @@
 ---
 title: 'Different Strokes for Different Folks: Heterogeneity, Teleworkability, and the Restructuring of Dutch Internal Migration Networks'
 authors:
-  - admin
-  - Dimitris Ballas
+  - 'He, J.'
+  - 'Ballas, D.'
 date: 2026-01-05
 summary: Heterogeneous relocation responses to teleworkability across demographic groups in the Netherlands.
 tags:
