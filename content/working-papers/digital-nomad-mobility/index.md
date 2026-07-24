@@ -1,10 +1,10 @@
 ---
 title: 'Revealing the Global Mobility and Driving Forces of Digital Nomads through Network Analysis and Interpretable Machine Learning'
 authors:
-  - admin
-  - Cheng Yang
-  - Shuang Zhang
-  - Yanan Mao
+  - 'He, J.'
+  - 'Yang, C.'
+  - 'Zhang, S.'
+  - 'Mao, Y.'
 date: 2026-01-04
 summary: A global city-network analysis of digital-nomad mobility and the factors shaping city attractiveness and cross-city flows.
 tags:
