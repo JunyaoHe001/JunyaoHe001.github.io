@@ -1,10 +1,10 @@
 ---
 title: 'Teleworkability and the Evolution of Job-Home Networks after the COVID-19 Shock: Causal Evidence from the Netherlands'
 authors:
-  - admin
-  - Tao Wang
-  - Viktor Venhorst
-  - Dimitris Ballas
+  - 'He, J.'
+  - 'Wang, T.'
+  - 'Venhorst, V.'
+  - 'Ballas, D.'
 date: 2026-01-01
 summary: Causal evidence on how remote-work exposure reshaped Dutch municipal job-home networks after COVID-19.
 tags:
