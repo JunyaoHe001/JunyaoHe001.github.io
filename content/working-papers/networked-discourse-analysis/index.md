@@ -1,10 +1,10 @@
 ---
 title: 'From Interaction Networks to Interpretive Samples: Networked Discourse Analysis for Digital Social Research'
 authors:
-  - admin
-  - Yanliu Lin
-  - Pieter Hooimeijer
-  - Jochen Monstadt
+  - 'He, J.'
+  - 'Lin, Y.'
+  - 'Hooimeijer, P.'
+  - 'Monstadt, J.'
 date: 2026-01-02
 summary: A framework integrating network analysis and discourse analysis to study networked power and discursive influence in digital data.
 tags:
