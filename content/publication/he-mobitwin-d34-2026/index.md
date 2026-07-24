@@ -1,11 +1,11 @@
 ---
 title: 'MOBI-TWIN D3.4: The Effects of Spatial Mobility during Twin Transition on Regional Inequality and Sustainability in the Identified EU Regional Typologies'
 authors:
-  - admin
-  - Thomas Ziogas
-  - Jiali Zhang
-  - Wander Jager
-  - Dimitris Ballas
+  - 'He, J.'
+  - 'Ziogas, T.'
+  - 'Zhang, J.'
+  - 'Jager, W.'
+  - 'Ballas, D.'
 date: 2026-04-01
 publication_types:
   - report

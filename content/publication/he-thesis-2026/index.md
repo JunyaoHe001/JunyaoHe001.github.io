@@ -1,7 +1,7 @@
 ---
 title: 'Network Power and Social Media: Reshaping Power Dynamics in Collaborative Planning in China'
 authors:
-  - admin
+  - 'He, J.'
 date: 2026-01-09
 publication_types:
   - thesis

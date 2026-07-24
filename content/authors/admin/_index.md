@@ -7,7 +7,7 @@ status:
   icon:
 superuser: true
 highlight_name: true
-role: Economic Geographer and Computational Social Scientist
+role: Postdoctoral Researcher | Economic Geographer and Computational Social Scientist
 organizations:
   - name: University of Groningen
     url: https://www.rug.nl/staff/j.he/
@@ -64,7 +64,7 @@ work:
     date_end: ''
     location: Groningen, Netherlands
     summary: |
-      Conducts research within the EU-funded MOBI-TWIN project on spatial mobility, regional inequality, and uneven development under digital and green transitions. The work combines complex network analysis, agent-based modelling, spatial econometrics, and EU microdata to examine how structural change reshapes regional opportunity, mobility patterns, and place-based policy.
+      Conducts policy-relevant research within the EU-funded MOBI-TWIN project on spatial mobility, regional inequality, and uneven development under digital and green transitions. The work combines complex network analysis, agent-based modelling, spatial econometrics, spatial microsimulation, and EU microdata to examine how structural change reshapes regional opportunity, mobility patterns, urban-regional governance, and place-based policy.
   - position: Doctoral Researcher
     company_name: Department of Human Geography and Spatial Planning, Utrecht University
     company_url: https://www.uu.nl/staff/JHe
@@ -142,5 +142,5 @@ languages:
     percent: 30
 about:
   summary: |
-    Junyao He is an economic geographer and computational social scientist working at the intersection of complex networks, complex systems, urban and regional studies, and spatial mobility. His research examines how remote and hybrid work, digitalisation, and emerging technologies reshape labour markets, residential mobility, migration, urban systems, and regional inequality. Across urban planning, economic geography, mobility studies, and computational social science, he combines complex network analysis with spatial econometrics, causal inference, agent-based modelling, spatial microsimulation, large-scale text analysis, and interpretable machine learning. His doctoral research investigated platform-mediated planning governance and inequalities in digital participation, while his postdoctoral research develops a broader agenda on mobility systems, regional restructuring, and uneven development.
+    Junyao He is a Postdoctoral Researcher in Economic Geography at the University of Groningen and a computational social scientist working at the intersection of complex networks, complex systems, urban and regional studies, and spatial mobility. His research examines how remote and hybrid work, digitalisation, and emerging technologies reshape labour markets, residential mobility, migration, urban systems, and regional inequality. Across urban planning, economic geography, mobility studies, and computational social science, he combines complex network analysis with spatial econometrics, causal inference, agent-based modelling, spatial microsimulation, large-scale text analysis, and interpretable machine learning. His doctoral research investigated platform-mediated planning governance and inequalities in digital participation, while his postdoctoral research develops a broader agenda on mobility systems, regional restructuring, and uneven development.
 ---

@@ -1,11 +1,11 @@
 ---
 title: 'MOBI-TWIN D3.1: Methodological Report Describing the MOBI-TWIN Model'
 authors:
-  - Thomas Ziogas
-  - Dimitris Ballas
-  - Jiali Zhang
-  - Wander Jager
-  - admin
+  - 'Ziogas, T.'
+  - 'Ballas, D.'
+  - 'Zhang, J.'
+  - 'Jager, W.'
+  - 'He, J.'
 date: 2026-04-01
 publication_types:
   - report
