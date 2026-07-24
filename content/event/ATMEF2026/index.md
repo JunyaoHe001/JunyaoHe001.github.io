@@ -8,10 +8,10 @@ date: 2026-01-01
 all_day: true
 publishDate: 2026-01-01
 authors:
-  - admin
-  - Thomas Ziogas
-  - Xinyi Pan
-  - Dimitris Ballas
+  - 'He, J.'
+  - 'Ziogas, T.'
+  - 'Pan, X.'
+  - 'Ballas, D.'
 tags:
   - Agent-Based Modelling
   - Spatial Mobility
