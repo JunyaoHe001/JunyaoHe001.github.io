@@ -1,38 +1,20 @@
 ---
-# Display name
 title: Junyao He
-
-# Name pronunciation (optional)
 name_pronunciation: Zeon Jiu Ho
-
-# Full name (for SEO)
 first_name: Junyao
 last_name: He
-
-# Status emoji
 status:
-  icon: 
-
-# Is this the primary user of the site?
+  icon:
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
-role: PhD Candidate in Spatial Planning and Human Geography
-
-# Organizations/Affiliations to display in Biography blox
+role: Economic Geographer and Computational Social Scientist
 organizations:
-  - name: Utrecht University
-    url: https://www.uu.nl/en/research/human-geography-and-planning
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+  - name: University of Groningen
+    url: https://www.rug.nl/staff/j.he/
 profiles:
   - icon: at-symbol
-    url: 'mailto:j.he1@uu.nl'
-    label: E-mail Me
+    url: 'mailto:J.HE@RUG.NL'
+    label: Email Me
   - icon: brands/x
     url: https://twitter.com/hejunyao8
   - icon: brands/instagram
@@ -42,144 +24,113 @@ profiles:
   - icon: brands/github
     url: https://github.com/JunyaoHe001
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/junyaohe/
+    url: https://www.linkedin.com/in/JunyaoHe
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=ywo5IEcAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=ywo5IEcAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1674-2933
-
 interests:
-  - Digital Planning
-  - Social Network Analysis
-  - Power Relations in Urban Planning
-  - Data Visualization
-  - Interpretable Machine Learning
-
+  - Complex Networks and Complex Systems
+  - Urban Planning and Urban Studies
+  - Urban and Economic Geography
+  - Mobility and Migration
+  - Computational Social Science
+  - Regional Inequality and Spatial Transformation
 education:
   - area: PhD in Human Geography and Spatial Planning
     institution: Utrecht University
     date_start: 2021-07-01
-    date_end: 2025-07-01
+    date_end: 2026-01-09
     summary: |
-      Research focuses on collaborative planning, power dynamics, and digital participation, supervised by Dr. Yanliu Lin. Leveraged tools like R, Gephi, and Pajek to analyze stakeholder participation and urban data, contributing to the ERC-funded project *Collaborative Planning in China*.
+      Doctoral research examined digital public participation, power inequalities, and platform-mediated urban governance in planning practice. The dissertation, *Network Power and Social Media: Reshaping Power Dynamics in Collaborative Planning in China*, was defended on 9 January 2026.
   - area: MSc in Urban Design and International Planning
     institution: The University of Manchester
     date_start: 2017-09-01
-    date_end: 2018-09-01
+    date_end: 2018-11-01
     summary: |
-      GPA: 3.8/4.0
-      Courses included:
-      - Urban Design and Global Challenges
-      - Planning for Sustainability
-      - Spatial Analysis Techniques
+      Focused on urban planning, socio-spatial development, spatial policy, and the built environment. The dissertation received the Highly Commended Dissertation Award.
   - area: BSc in Human Geography and Urban-Rural Planning
     institution: Southwest University
     date_start: 2013-09-01
     date_end: 2017-06-01
     summary: |
-      GPA: 3.4/4.0
-      Courses included:
-      - Urban and Regional Development
-      - Geospatial Technologies
-      - Land Use Planning
-
+      Training in human geography, urban-rural transformation, regional development, spatial inequality, GIS, and place-based analysis.
 work:
+  - position: Postdoctoral Researcher
+    company_name: Department of Economic Geography, University of Groningen
+    company_url: https://www.rug.nl/staff/j.he/
+    company_logo: ''
+    date_start: 2025-08-01
+    date_end: ''
+    location: Groningen, Netherlands
+    summary: |
+      Conducts research within the EU-funded MOBI-TWIN project on spatial mobility, regional inequality, and uneven development under digital and green transitions. The work combines complex network analysis, agent-based modelling, spatial econometrics, and EU microdata to examine how structural change reshapes regional opportunity, mobility patterns, and place-based policy.
   - position: Doctoral Researcher
-    company_name: Faculty of Geosciences, Utrecht University
-    company_url: ''
+    company_name: Department of Human Geography and Spatial Planning, Utrecht University
+    company_url: https://www.uu.nl/staff/JHe
     company_logo: ''
     date_start: 2021-07-01
-    date_end: ''
+    date_end: 2025-06-01
     location: Utrecht, Netherlands
     summary: |
-      Responsibilities include:
-      - Conducting research on power dynamics and stakeholder collaboration in planning processes.
-      - Developing digital planning methods using social network analysis and spatial analysis tools.
-      - Contributing to the ERC-funded project *Collaborative Planning in China*.
+      Conducted research within the ERC-funded CoChina project on urban planning, governance, public participation, and platform-mediated power. Developed mixed computational and qualitative approaches combining social network analysis, large-scale text analysis, and agent-based modelling.
   - position: Teaching Assistant
     company_name: Faculty of Geosciences, Utrecht University
     company_url: ''
     company_logo: ''
-    date_start: 2022-01-01
-    date_end: ''
+    date_start: 2022-03-01
+    date_end: 2025-06-01
     location: Utrecht, Netherlands
     summary: |
-      Responsibilities include:
-      - Mentoring students in urban research and planning courses.
-      - Assisting in teaching spatial data analysis and visualization using R and Gephi.
-  - position: Urban Analyst and Consultant
-    company_name: UrbanXYZ Technology Ltd (Smart City Company)
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-01-01
-    date_end: 2021-01-01
-    location: Beijing, China
-    summary: |
-      Responsibilities include:
-      - Supporting smart city projects with advanced urban data analytics.
-      - Developing strategies for urban infrastructure and transportation planning.
-      - Collaborating with local governments on smart city initiatives.
-  - position: Research Manager (Part-time)
-    company_name: Beijing Community Research Center (NGO)
+      Contributed to undergraduate and postgraduate teaching through lectures, seminars, assessment, grading, and thesis supervision, with a focus on research methodology, China studies, social media data, and computational approaches to urban research.
+  - position: Researcher and External Advisor
+    company_name: Beijing Community Research Centre
     company_url: ''
     company_logo: ''
     date_start: 2020-04-01
-    date_end: 2023-05-01
-    location: Beijing, China
+    date_end: 2022-04-01
+    location: Beijing / Remote
     summary: |
-      Responsibilities include:
-      - Leading public participation projects focused on urban regeneration.
-      - Analyzing community-level data to support participatory planning initiatives.
-  - position: Urban Planner
-    company_name: China Academy of Urban Planning and Design (Urban Planning Institution)
+      Conducted community-based research on inclusive urban development, accessibility, vulnerable groups, and small-scale public-space improvement.
+  - position: Urban Consultant and Analyst
+    company_name: UrbanXYZ Technology Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2018-01-01
-    date_end: 2019-01-01
+    date_start: 2019-04-01
+    date_end: 2021-05-01
     location: Beijing, China
     summary: |
-      Responsibilities include:
-      - Designing urban masterplans for sustainable development.
-      - Conducting field surveys and stakeholder interviews for urban regeneration projects.
-      - Contributing to regional planning studies and spatial development strategies.
-
+      Worked on urban analytics, smart-governance, decision-support, and policy consultancy projects for public and private-sector clients.
+  - position: Intern Urban Planner
+    company_name: China Academy of Urban Planning and Design
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-11-01
+    date_end: 2019-04-01
+    location: Beijing, China
+    summary: |
+      Contributed to municipal-scale spatial planning, urban design, and policy-oriented spatial analysis.
 skills:
-  - name: Technical Skills
+  - name: Research Methods
     items:
-      - name: Social Network Analysis
-        description: Expertise in analyzing social networks using Gephi, Pajek, and R.
-        percent: 90
+      - name: Complex Network Analysis
+        description: Network science for urban, regional, mobility, migration, and digital interaction systems.
         icon: hexagon-nodes
-      - name:  Geo-spatial Analysis
-        description: Skilled in geospatial analysis and visualization with QGIS, ArcGIS and Python.
-        percent: 80
+      - name: Spatial Econometrics and Causal Inference
+        description: Spatial regression, quasi-experimental designs, spillover analysis, and policy evaluation.
+        icon: chart-line
+      - name: Agent-Based Modelling
+        description: Simulation of heterogeneous agents, spatial interaction, and emergent system dynamics.
+        icon: people-group
+      - name: Spatial Microsimulation
+        description: IPF-based population synthesis and scenario analysis for regional inequality and mobility.
+        icon: table-cells
+      - name: GIS and Spatio-temporal Analysis
+        description: Advanced spatial analysis and visualisation using Python, R, QGIS, and ArcGIS.
         icon: globe
-      - name: Interpretable Machine Learning
-        description: Experience with SHAP and XGBoost to analyze urban data patterns.
-        percent: 75
+      - name: Text Analysis and Interpretable Machine Learning
+        description: Large-scale text analysis, NLP, explainable AI, and machine-learning workflows.
         icon: machine-learning
-      - name: Data Visualization
-        description: Proficient in creating insightful visualizations with Python, R and Tableau.
-        percent: 85
-        icon: chart-bar
-
-  - name: Hobbies
-    color: '#1e90ff'
-    color_border: '#4682b4'
-    items:
-      - name: Photography
-        description: Capturing urban transformations and landscapes.
-        percent: 80
-        icon: camera
-      - name: Hiking
-        description: Exploring natural and urban environments.
-        percent: 70
-        icon: person-hiking
-      - name: Skiing
-        description: Exploring natural and urban environments.
-        percent: 70
-        icon: person-skiing
-
 languages:
   - name: English
     percent: 100
@@ -189,52 +140,7 @@ languages:
     percent: 10
   - name: Cantonese
     percent: 30
-
-awards:
-  - title: Highly Commended Performance Dissertation Award
-    date: '2018-11-01'
-    awarder: The University of Manchester SEED
-    icon: 
-    summary: |
-      Awarded for outstanding performance in a thesis.
-
-  - title: Outstanding Graduate Award
-    date: '2017-05-01'
-    awarder: Southwest University
-    icon: 
-    summary: |
-      Recognized as one of the top 10% of students achieving outstanding grades during undergraduate studies.
-
-  - title: Outstanding Student Leaders Award
-    date: '2016-12-01'
-    awarder: Southwest University
-    icon: 
-    summary: |
-      Awarded for leadership in student organizations during undergraduate education.
-
-  - title: National Students’ Innovation and Entrepreneurship Training Funding
-    date: '2016-12-01'
-    awarder: Ministry of Education, China
-    icon: 
-    summary: |
-      Secured funding for academic training in innovative and entrepreneurial projects for undergraduate students.
-
-  - title: First Level Scholarship
-    date: '2016-10-01'
-    awarder: Southwest University
-    icon: 
-    summary: |
-      Awarded to the top 5–10% of students in an academic year.
-
-  - title: Second Level Scholarship
-    date: '2015-10-01'
-    awarder: Southwest University
-    icon: 
-    summary: |
-      Awarded to the top 10–20% of students in an academic year.
-
 about:
   summary: |
-    Junyao He is a Ph.D. candidate in Human Geography and Spatial Planning at Utrecht University. His research interests include digital planning, social network analysis, and power relations in urban planning. Skilled in spatial analysis, data visualization, and interpretable machine learning, Junyao bridges traditional planning approaches with emerging technologies to foster sustainable and inclusive urban environments.
-
+    Junyao He is an economic geographer and computational social scientist working at the intersection of complex networks, complex systems, urban and regional studies, and spatial mobility. His research examines how remote and hybrid work, digitalisation, and emerging technologies reshape labour markets, residential mobility, migration, urban systems, and regional inequality. Across urban planning, economic geography, mobility studies, and computational social science, he combines complex network analysis with spatial econometrics, causal inference, agent-based modelling, spatial microsimulation, large-scale text analysis, and interpretable machine learning. His doctoral research investigated platform-mediated planning governance and inequalities in digital participation, while his postdoctoral research develops a broader agenda on mobility systems, regional restructuring, and uneven development.
 ---
