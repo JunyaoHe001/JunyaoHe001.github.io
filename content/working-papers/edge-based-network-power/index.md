@@ -1,10 +1,10 @@
 ---
 title: 'Social Media Influence on Citizen Power in Online Planning Controversies: An Edge-based Social Network Analysis of Network Power'
 authors:
-  - admin
-  - Yanliu Lin
-  - Pieter Hooimeijer
-  - Jochen Monstadt
+  - 'He, J.'
+  - 'Lin, Y.'
+  - 'Hooimeijer, P.'
+  - 'Monstadt, J.'
 date: 2026-01-03
 summary: An edge-based network approach to how power is distributed and reproduced in online planning controversies.
 tags:
